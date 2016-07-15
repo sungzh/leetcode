@@ -7,7 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6603F2241D38DFBB00FA0AB6 /* 36. Valid Sudoku.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6603F2231D38DFBB00FA0AB6 /* 36. Valid Sudoku.swift */; };
 		6690096D1D34932300724D6D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6690096C1D34932300724D6D /* main.swift */; };
+		669009741D3497A000724D6D /* 1. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 669009731D3497A000724D6D /* 1. Two Sum.swift */; };
+		669009761D34C70600724D6D /* 7. Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 669009751D34C70600724D6D /* 7. Reverse Integer.swift */; };
+		669009781D34D50900724D6D /* 371. Sum of Two Integers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 669009771D34D50900724D6D /* 371. Sum of Two Integers.swift */; };
+		6690097A1D3513D900724D6D /* 21. Merge Two Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 669009791D3513D900724D6D /* 21. Merge Two Sorted Lists.swift */; };
+		66B39F391D35E50A00E542D1 /* 24. Swap Nodes in Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B39F381D35E50A00E542D1 /* 24. Swap Nodes in Pairs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +29,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6603F2231D38DFBB00FA0AB6 /* 36. Valid Sudoku.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "36. Valid Sudoku.swift"; sourceTree = "<group>"; };
 		669009691D34932300724D6D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		6690096C1D34932300724D6D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		669009731D3497A000724D6D /* 1. Two Sum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "1. Two Sum.swift"; sourceTree = "<group>"; };
+		669009751D34C70600724D6D /* 7. Reverse Integer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "7. Reverse Integer.swift"; sourceTree = "<group>"; };
+		669009771D34D50900724D6D /* 371. Sum of Two Integers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "371. Sum of Two Integers.swift"; sourceTree = "<group>"; };
+		669009791D3513D900724D6D /* 21. Merge Two Sorted Lists.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "21. Merge Two Sorted Lists.swift"; sourceTree = "<group>"; };
+		66B39F381D35E50A00E542D1 /* 24. Swap Nodes in Pairs.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "24. Swap Nodes in Pairs.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +69,13 @@
 		6690096B1D34932300724D6D /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				6603F2231D38DFBB00FA0AB6 /* 36. Valid Sudoku.swift */,
 				6690096C1D34932300724D6D /* main.swift */,
+				669009751D34C70600724D6D /* 7. Reverse Integer.swift */,
+				669009771D34D50900724D6D /* 371. Sum of Two Integers.swift */,
+				669009731D3497A000724D6D /* 1. Two Sum.swift */,
+				669009791D3513D900724D6D /* 21. Merge Two Sorted Lists.swift */,
+				66B39F381D35E50A00E542D1 /* 24. Swap Nodes in Pairs.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -120,6 +138,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				6690096D1D34932300724D6D /* main.swift in Sources */,
+				669009741D3497A000724D6D /* 1. Two Sum.swift in Sources */,
+				66B39F391D35E50A00E542D1 /* 24. Swap Nodes in Pairs.swift in Sources */,
+				6603F2241D38DFBB00FA0AB6 /* 36. Valid Sudoku.swift in Sources */,
+				669009761D34C70600724D6D /* 7. Reverse Integer.swift in Sources */,
+				6690097A1D3513D900724D6D /* 21. Merge Two Sorted Lists.swift in Sources */,
+				669009781D34D50900724D6D /* 371. Sum of Two Integers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +263,7 @@
 				669009721D34932300724D6D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
