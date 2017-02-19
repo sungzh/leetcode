@@ -9,14 +9,14 @@
 
 // 几次错误1. 没有考虑为空情况 2.稍加一个pnext != nil判断 3.rpre?.val <= pnext?.val && pnext?.val <= rnext?.val 忘记加=与判断  2、3导致无线循环
  // Definition for singly-linked list.
- public class ListNode {
-     public var val: Int
-     public var next: ListNode?
-     public init(_ val: Int) {
-         self.val = val
-         self.next = nil
-     }
- }
+// public class ListNode {
+//     public var val: Int
+//     public var next: ListNode?
+//     public init(_ val: Int) {
+//         self.val = val
+//         self.next = nil
+//     }
+// }
 
 class MergeTwoSortedLists {
     func mergeTwoLists(l1: ListNode?, _ l2: ListNode?) -> ListNode? {

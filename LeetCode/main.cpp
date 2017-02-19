@@ -6,4 +6,10 @@
 //  Copyright © 2016 SunGuoZheng. All rights reserved.
 //
 
-#include <stdio.h>
+#include <iostream>
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    std::cout << "Hello, World!\n";
+    return 0;
+}

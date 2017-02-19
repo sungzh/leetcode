@@ -17,6 +17,8 @@ print("Hello, World!")
 //testMergeTwoSortedLists3()
 
 //24
-testSwapNodesinPairs()
+//testSwapNodesinPairs()
 
+//98
+testVBST()
 

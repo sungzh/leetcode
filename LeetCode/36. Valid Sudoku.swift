@@ -8,6 +8,6 @@
 
 class ValidSudoku {
     func isValidSudoku(board: [[Character]]) -> Bool {
-        
+        return true
     }
 }
