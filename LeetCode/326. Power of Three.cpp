@@ -12,7 +12,7 @@
 /*
  * Source:https://leetcode.com/problems/power-of-three/
  * Description: 3^19 the max int  power 3
- * Data: 20170914
+ * Data: 20170915
  * Author: guozheng
  */
 
