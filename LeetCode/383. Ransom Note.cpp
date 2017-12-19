@@ -15,7 +15,7 @@
  * Source: https://leetcode.com/problems/ransom-note/
  * Description: easy question
  * Author: guozheng
- * Data: 20171217
+ * Data: 20171219
  */
 
 class Solution {

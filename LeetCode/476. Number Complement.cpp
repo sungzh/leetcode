@@ -18,7 +18,7 @@
  * Source: https://leetcode.com/problems/number-complement/
  * Description: using unsigned mask
  * Author: guozheng
- * Data: 20171217
+ * Data: 20171219
  */
 
 class Solution {

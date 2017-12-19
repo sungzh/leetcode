@@ -20,7 +20,7 @@
  * Source: https://leetcode.com/problems/min-stack/
  * Description: using two stack or one stack using the res
  * Author: guozheng
- * Data: 20171217
+ * Data: 20171219
  */
 
 class MinStack {
